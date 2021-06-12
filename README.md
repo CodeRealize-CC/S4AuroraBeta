@@ -4,7 +4,7 @@ S4 League private server emulator, made portable and patched by Kozz. It allows 
 ## Getting Started
 
 ### How To Run ?
-1. Download and extract "S4portable(ExtractMe).7z"
+1. Download and extract "Aurora.zip"
 2. Run LAUNCHER.EXE
 3. Ingame login information is ID:admin PW:admin (or admin2/admin2)
 It's that simple. When you're done playing, press Ctrl+Win+Alt+F4 to quickly and comfortably close all the processes at once.****
