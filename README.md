@@ -29,12 +29,11 @@ If you're not good at compiling... Don't try the sources - Also you can't add an
 
 Contributors names and contact info
 
-Client. god  
-Server. Lau
-Patch. Wizzardo
-Main Source. wtfbulb
-
-
+    * Client. god 
+    * Server. Lau
+    * Patch. Wizzardo
+    * Main Source. wtfbulb
+ 
 ## News
 
 * 0.2
