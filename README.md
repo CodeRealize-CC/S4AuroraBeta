@@ -31,8 +31,7 @@ Contributors names and contact info
 
     * Client. god 
     * Server. Lau
-    * Patch. Wizzardo
-    * Main Source. wtfbulb
+    * Patch. Kozz
  
 ## News
 
